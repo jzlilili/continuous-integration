@@ -1,4 +1,4 @@
-[![Continuous Integration](https://github.com/jzlilili/continuous-integration/actions/workflows/tests.yml/badge.svg)](https://github.com/jzlilili/continuous-integration/actions/workflows/tests.yml)
+#Continuous Integration ![https://github.com/jzlilili/continuous-integration/actions/workflows/tests.yml/badge.svg](https://github.com/jzlilili/continuous-integration/actions/workflows/tests.yml)
 
 *This is the first homework assignment for Claremont McKenna's [CSCI46: Data Structures](https://github.com/mikeizbicki/cmc-csci046) course and [CSCI143: Big Data](https://github.com/mikeizbicki/cmc-csci143) course.*
 
